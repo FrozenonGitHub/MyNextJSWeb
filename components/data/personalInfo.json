@@ -1,0 +1,32 @@
+{
+    "title": "Wenyue Zhao",
+    "name": "Wenyue Zhao",
+    "domain":"https://nextjs-academic-theme.vercel.app/",
+    "copyright":"harrypotter.me",
+    "socialMedia": {
+        "Twitter": "https://twitter.com/",
+        "LinkedIn": "https://www.linkedin.com/",
+        "GoogleScholar": "https://scholar.google.com/"
+    },
+    "about": {
+        "year": "3rd-year",
+        "department": {
+            "name": "Laboratory for Foundations of Computer Science",
+            "link": "https://web.inf.ed.ac.uk/lfcs"
+        },
+        "college": {
+            "name": "The University of Edinburgh",
+            "link": "https://www.ed.ac.uk/"
+        },
+        "advisor": {
+            "name": "Yang Cao",
+            "link": "https://homepages.inf.ed.ac.uk/ycao/"
+        },
+        "email": "wenyue.zhao@ed.ac.uk",
+        "interest": "Database Systems, Transactions, Graph Computing Systems"
+    },
+    "love": "",
+    "education": []
+
+
+}
