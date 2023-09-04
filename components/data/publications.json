@@ -1,105 +1,39 @@
-[
-	{
-		"id": 5,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Towards Generalized Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
-	{
-		"id": 4,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Rethinking Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
+[	
 	{
 		"id": 3,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Pushing the Limits of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "Jia Li, Wenyue Zhao, Nikos Ntarmos, Yang Cao, Peter Buneman",
+		"title": "MITra: A Framework for Multi-Instance Graph Traversal",
+		"conference": "VLDB 2023",
 		"links": [
 			{
 				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
+				"url": "https://dl.acm.org/doi/pdf/10.14778/3603581.3603594"
 			}
 		]
 	},
 
 	{
 		"id": 2,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Defensing Against the Dark Arts Spells based on Reductor Curse",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "Yang Cao, Wenfei Fan, Weijie Ou, Rui Xie, Wenyue Zhao",
+		"title": "Transaction Scheduling: From Conflicts to Runtime Conflicts",
+		"conference": "SIGMOD 2023",
 		"links": [
 			{
 				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
+				"url": "https://dl.acm.org/doi/pdf/10.1145/3588706"
 			}
 		]
 	},
 
 	{
 		"id": 1,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "A Survey of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "Shuai An, Yang Cao, Wenyue Zhao",
+		"title": "Competitive Consistent Caching for Transactions",
+		"conference": "ICDE 2022",
 		"links": [
 			{
 				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
+				"url": "https://ieeexplore.ieee.org/iel7/9835153/9835154/09835469.pdf"
 			}
 		]
 	}

@@ -1,8 +1,8 @@
 {
     "title": "Wenyue Zhao",
     "name": "Wenyue Zhao",
-    "domain":"https://nextjs-academic-theme.vercel.app/",
-    "copyright":"harrypotter.me",
+    "domain":"https://www.wy-zhao.com",
+    "copyright":"Wenyue Zhao.",
     "socialMedia": {
         "Twitter": "https://twitter.com/",
         "LinkedIn": "https://www.linkedin.com/",
@@ -15,7 +15,7 @@
             "link": "https://web.inf.ed.ac.uk/lfcs"
         },
         "college": {
-            "name": "The University of Edinburgh",
+            "name": "University of Edinburgh",
             "link": "https://www.ed.ac.uk/"
         },
         "advisor": {
@@ -23,7 +23,7 @@
             "link": "https://homepages.inf.ed.ac.uk/ycao/"
         },
         "email": "wenyue.zhao@ed.ac.uk",
-        "interest": "Database Systems, Transactions, Graph Computing Systems"
+        "interest": "Database Systems, Transactions, Graph Computing"
     },
     "love": "",
     "education": []

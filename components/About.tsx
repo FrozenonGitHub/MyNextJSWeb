@@ -16,18 +16,18 @@ const About = (): JSX.Element => {
 					<p>
 						<br/>
 						I am a {personalInfo.about.year} PhD student
-						in <ExtLink href={personalInfo.about.department.link}>{personalInfo.about.department.name} </ExtLink>, School of Informatics, {' '} 
-						<ExtLink href= {personalInfo.about.college.link}>{personalInfo.about.college.name} </ExtLink> 
+						in <ExtLink href={personalInfo.about.department.link}>{personalInfo.about.department.name} </ExtLink>, School of Informatics at{'\xa0'}
+						<ExtLink href= {personalInfo.about.college.link}>{personalInfo.about.college.name}</ExtLink>, 
 						advised by <ExtLink href={personalInfo.about.advisor.link}> {personalInfo.about.advisor.name}. </ExtLink>
 					</p>
 					<p>
 						<br/><a href="mailto: wenyue.zhao@ed.ac.uk">✉️ {personalInfo.about.email}</a>
 					</p>
 					<p>
-						Research Interest: {personalInfo.about.interest}
+						<br/>Research Interest: {personalInfo.about.interest}
 					</p>
 					<p className = "text-gray-600">
-						<br/>Committed to improving database systems with algorithm and design...
+						Committed to improving database systems with algorithm and design...
 					</p>
 				</div>
 			</div>
