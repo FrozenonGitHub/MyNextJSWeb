@@ -1,6 +1,7 @@
 import Image from 'next/image';
 
 import ExtLink from './ExtLink';
+import IconImage from './IconImage';
 import ProfileImage from './ProfileImage';
 import personalInfo from './data/personalInfo.json'
 
@@ -22,6 +23,7 @@ const About = (): JSX.Element => {
 					</p>
 					<p>
 						<br/><a href="mailto: wenyue.zhao@ed.ac.uk">✉️ {personalInfo.about.email}</a>
+						<br/><a href="mailto: zhaowenyue98@gmail.com">✉️ {personalInfo.about.gmail}</a>
 					</p>
 					<p>
 						<br/>Research Interest: {personalInfo.about.interest}
