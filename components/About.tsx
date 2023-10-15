@@ -22,8 +22,7 @@ const About = (): JSX.Element => {
 						advised by <ExtLink href={personalInfo.about.advisor.link}> {personalInfo.about.advisor.name}. </ExtLink>
 					</p>
 					<p>
-						<br/><a href="mailto: wenyue.zhao@ed.ac.uk">✉️ {personalInfo.about.email}</a>
-						<br/><a href="mailto: zhaowenyue98@gmail.com">✉️ {personalInfo.about.gmail}</a>
+						<br/><a href="mailto: wenyue.zhao@ed.ac.uk">✉️ {personalInfo.about.email}</a> OR <a href="mailto: zhaowenyue98@gmail.com">✉️ {personalInfo.about.gmail}</a>
 					</p>
 					<p>
 						<br/>Research Interest: {personalInfo.about.interest}
