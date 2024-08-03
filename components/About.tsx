@@ -16,10 +16,12 @@ const About = (): JSX.Element => {
 					<h1 className="text-4xl font-bold pb-8 md:pb-0">{personalInfo.name}</h1>
 					<p>
 						<br/>
-						I am a {personalInfo.about.year} PhD student
-						in <ExtLink href={personalInfo.about.department.link}>{personalInfo.about.department.name} </ExtLink>, School of Informatics at{'\xa0'}
+						{/* I am a {personalInfo.about.year} PhD student */}
+						I am a final year PhD student in School of Informatics at {'\xa0'}
+						{/* in <ExtLink href={personalInfo.about.department.link}>{personalInfo.about.department.name} </ExtLink>, */}
 						<ExtLink href= {personalInfo.about.college.link}>{personalInfo.about.college.name}</ExtLink>, 
-						advised by <ExtLink href={personalInfo.about.advisor.link}> {personalInfo.about.advisor.name}. </ExtLink>
+						focusing on database system research
+						(advisor: <ExtLink href={personalInfo.about.advisor.link}> {personalInfo.about.advisor.name}). </ExtLink>
 					</p>
 					<p>
 						<br/><a href="mailto: wenyue.zhao@ed.ac.uk">✉️ {personalInfo.about.email}</a> || <a href="mailto: zhaowenyue98@gmail.com">✉️ {personalInfo.about.gmail}</a>
@@ -28,7 +30,7 @@ const About = (): JSX.Element => {
 						<br/>Research Interest: {personalInfo.about.interest}
 					</p>
 					<p className = "text-gray-600">
-						Committed to improving database systems with algorithm and design...
+						Improving database systems with practical algorithm and design...
 					</p>
 				</div>
 			</div>

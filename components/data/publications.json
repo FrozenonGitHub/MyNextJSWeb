@@ -1,5 +1,17 @@
 [	
 	{
+		"id": 4,
+		"author": "Wenyue Zhao, Yang Cao, Peter Buneman, Jia Li, Nikos Ntarmos",
+		"title": "Vectorizing Distributed Graph Computations made Automated",
+		"conference": "SIGMOD 2025",
+		"links": [
+			{
+				"name": "soon",
+				"url": ""
+			}
+		]
+	},
+	{
 		"id": 3,
 		"author": "Jia Li, Wenyue Zhao, Nikos Ntarmos, Yang Cao, Peter Buneman",
 		"title": "MITra: A Framework for Multi-Instance Graph Traversal",

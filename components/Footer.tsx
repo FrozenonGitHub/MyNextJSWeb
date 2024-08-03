@@ -35,17 +35,17 @@ const Footer = (): JSX.Element => {
 
 
                 <div className="flex justify-between w-44">
-                    <Box href={personalInfo.socialMedia.Twitter} label="Twitter">
-                        <IconImage path='/images/icons8-twitter.svg' name="Twitter"/>
-                    </Box>
                     <Box href={personalInfo.socialMedia.LinkedIn} label="LinkedIn">
                         <IconImage path='/images/icons8-linkedin.svg' name="LinkedIn"/>
                     </Box>
-                    <Box href="www.github.com" label="GitHub">
-                        <IconImage path='/images/github-mark.svg' name="GitHub"/>
-                    </Box>
                     <Box href={personalInfo.socialMedia.GoogleScholar} label="GoogleScholar">
                         <IconImage path='/images/icons8-google-scholar.svg' name="GoogleScholar"/>
+                    </Box>
+                    <Box href={personalInfo.socialMedia.Twitter} label="Twitter">
+                        <IconImage path='/images/x-icon.png' name="Twitter"/>
+                    </Box>
+                    <Box href="www.github.com" label="GitHub">
+                        <IconImage path='/images/github-mark.svg' name="GitHub"/>
                     </Box>
                 </div>    
             </div>
