@@ -2,7 +2,7 @@
 	{
 		"id": 4,
 		"author": "Wenyue Zhao, Yang Cao, Peter Buneman, Jia Li, Nikos Ntarmos",
-		"title": "Vectorizing Distributed Graph Computations made Automated",
+		"title": "Automating Vectorized Distributed Graph Computation",
 		"conference": "SIGMOD 2025",
 		"links": [
 			{
